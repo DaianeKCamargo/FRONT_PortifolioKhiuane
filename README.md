@@ -20,3 +20,4 @@ A idéia é criar um site real, a administradora do site é minha irmã a qual p
 
 ### Framework
 ![Static Badge](https://img.shields.io/badge/Bulma-%23333?logo=bulma&logoColor=aquamarine)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%23333?logo=bootstrap&logoColor=purple)
